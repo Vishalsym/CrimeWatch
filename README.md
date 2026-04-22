@@ -60,5 +60,3 @@ Forensic noir — crimson (#DC2626) on deep black (#0A0A0F), Playfair Display se
 All 6 pages verified via Streamlit AppTest harness with zero errors.
 
 ---
-
-**Built 2026 · For educational viva demonstration**
