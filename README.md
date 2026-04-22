@@ -40,7 +40,7 @@ CrimeWatch/
 3. **📊 3D Analytics** — 5 3D visualizations: bars, histograms, scatter, surface, animated race
 4. **🖼️ Evidence Lab** — 30+ forensic image ops across 6 categories (with 2 demo CCTV images)
 5. **📝 Report Intelligence** — 7 NLP tabs: normalize, classify (3 models), find similar cases, search, sentiment, n-grams, word cloud
-6. **ℹ️ About** — Syllabus coverage matrix, tech stack, viva flow
+6. **ℹ️ About** — Info on CrimeWatch & Tech stack
 
 ## 🎨 Theme
 
