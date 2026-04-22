@@ -46,15 +46,6 @@ CrimeWatch/
 
 Forensic noir — crimson (#DC2626) on deep black (#0A0A0F), Playfair Display serif headers, Oswald for sections, JetBrains Mono for technical details. Evokes a police case-file aesthetic without being cartoonish.
 
-## 🎤 Viva Flow (8 minutes)
-
-1. Open sidebar → show 4 syllabus bullets
-2. Command Center → 6 KPIs + top crime chart
-3. Crime Atlas → Hotspot map (click Mumbai), then Heatmap
-4. 3D Analytics → 3D Bars (change year), then Animated Race ▶
-5. Evidence Lab → "Night Shot" demo → CLAHE → Canny → Face Detection
-6. Report Intelligence → Classify a new crime report → show confusion matrix → Similar cases
-7. About → show syllabus matrix
 
 ## 📊 Dataset
 
